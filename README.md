@@ -1,1 +1,1 @@
-This is the basic Landing page created using HTML5 and CSS 
+Temperature Converter This temperature converter project was completed as part of my internship in web development, demonstrating my skills in HTML, CSS, and JavaScript. The project showcases my ability to design and develop dynamic web applications with user-friendly interfaces. 
